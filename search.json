@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Master en Data Science & Business Analytics",
+    "section": "",
+    "text": "Congreso\n\n\nGranada\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\nMdsba\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCongreso\n\n\nPastrana\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\nMdsba\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ninicio\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\nMdsba\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Acerca de",
+    "section": "",
+    "text": "Este blog se ha construido para el Master en Data Science & Business Analytics."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Presentación",
+    "section": "",
+    "text": "## Enseñanza on-line 100%\n### Formación FUNDAE\nDirigido a:\n- Titulados universitarios\n- Profesionales\n- Posibilidad de obtención de títulos de Experto y Máster convalidando créditos\n- 60 ECTS. Inicio: Septiembre 2023 – Fin: Junio 2024\nPROGRAMA\nMódulo I: Introducción a la Ciencia de Datos\nMasterclass inaugural: Inteligencia artificial pero muy humana\nMódulo II: Software estadístico R\n1. R y su entorno\n2. Tratamiento de Datos\n3. Análisis exploratorio de datos\nMasterclass: ¿Pueden la Ciencia de los datos y R ayudar a encontrar empleo a un parado?: OcupaR\nMódulo III: Arquitectura de Datos y Tecnologías Big-Data\n4. Introducción\n5. Calidad y gobierno de datos\n6. Bases de datos Relacionales\n7. Bases de datos NoSQL\nMasterclass: Big-Data aplicado a empresas\nMódulo IV: Fundamentos de Estadística\n8. Modelos probabilísticos\n9. Fundamentos de Estadística Inferencial\nMasterclass: Uso y análisis de datos en medicina: ejemplos prácticos en infecciosas y farmacogenética\nMódulo V: Modelización Estadística\n10. Modelización econométrica lineal\n11. Modelos lineales generalizados con distribución exponencial\n12. Modelos aditivos generalizados\n13. Modelos mixtos\n14. Series temporales\n15. Validación de modelos.\nMasterclass: Por qué y para qué modelizar la identificación de miembros de alto riesgo que necesiten intervenciones\nMódulo VI: Data Mining Básico\n16. Instrumentos y técnicas de la estadística moderna\n17. Técnicas gráficas de Análisis Multivariante\n18. Análisis de la Varianza\n19. Clasificación y Discriminación\n20. Reducción de la dimensionalidad\n21. Correlación Canónica\nMasterclass: Aplicación de análisis de datos y big data en deporte de alto rendimiento\nMódulo VII: Data Mining Avanzado\n22. Análisis de tablas de contingencia\n23. Análisis de correspondencias\n24. Análisis conjunto\nMasterclass: Desarrollos de Data Science en ciberdelincuencia\n25. Escalamiento multidimensional\n26. Modelos de ecuaciones estructurales\n27. Modelos Sparse y métodos penalizados de regresión.\nMasterclass: Modelos predictivos en alta dimensionalidad. Un ejemplo con datos genéticos\n28. Random Forest\n29. Boosting\nMasterclass: Aplicación de métricas avanzadas en el fútbol\nMódulo VIII: Estadística Espacial y Espacio-Temporal\n30. Visualización y geolocalización de datos\n31. Procesos puntuales\n32. Modelos econométricos espaciales\nMasterclass: El valor de la ciencia de datos en la investigación policial\n33. Geoestadística espacial\n34. Geoestadística espacio-temporal\nMasterclass: Valoración de todas las casas de España: Lecciones aprendidas.\nMódulo IX: Inteligencia Artificial\n35. Introducción a la inteligencia artificial\n36. Machine learning: aprendizaje supervisado\n37. Machine learning: aprendizaje no supervisado\n38. Machine learning: otros conceptos\nMasterclass: Aplicaciones Big Data & Analytics en Red Eléctrica de España\n39. Aplicaciones del deep learning\n40. Redes Neuronales Artificiales (ANNs)\n41. Redes Neuronales Convolucionales (CNNs)\nMasterclass: Analítica avanzada al servicio de las empresas.\n42. Análisis de grafos y redes sociales\n43. Análisis de datos no estructurados\nMasterclass: Aplicaciones de Data Science para Policía\nMódulo X: Trabajo Fin de Máster"
+  },
+  {
+    "objectID": "posts/profesorado/index.html",
+    "href": "posts/profesorado/index.html",
+    "title": "Profesorado",
+    "section": "",
+    "text": "Profesorado"
+  },
+  {
+    "objectID": "presentacion.html",
+    "href": "presentacion.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "caracteristicas/caracteristicas.html",
+    "href": "caracteristicas/caracteristicas.html",
+    "title": "Características",
+    "section": "",
+    "text": "Formación FUNDAE\n\n\nDirigido a:\n\n- Titulados universitarios\n\n\n- Profesionales\n\n\n- Posibilidad de obtención de títulos de Experto y Máster convalidando créditos\n\n\n- 60 ECTS. Inicio: Septiembre 2023 – Fin: Junio 2024"
+  },
+  {
+    "objectID": "profesorado/profesorado.html",
+    "href": "profesorado/profesorado.html",
+    "title": "Profesorado",
+    "section": "",
+    "text": "Nerea Luis Mingueza\nDoctora en Ciencias de la Computación y Cofundadora de T3chFest.Forma parte del equipo de Inteligencia Artificial en SNGULAR.Imparte conferencias y formación sobre Inteligencia Artificial.Le ncanta la divulgación, la docencia, la Inteligencia Artificial y la Robótica.\n\n\n\nDr. Emilio López Cano\nEstadístico. Entusiasta y activista del software estadístico y lenguaje de programación R (http://r-project.org/)\n\n\n\nIsidro Hidalgo Arellano\nJefe de Sección en el Obs. del Mercado de Trabajo Junta de Comunidades Castilla-La Mancha\n\n\n\nIsmael Caballero Muñoz-Reja\nAssociate Professor, University of Castilla La Mancha (https://ror.org/05r78ng12)\n\n\n\nRicardo Pérez del Castillo\nAssociate Professor & Academic Director at Faculty of Social Sciences & IT, University of Castilla-La Mancha\nTalavera de la Reina\n\n\n\nLuis Ramirez\nSenior Data Engineer | SQL | Python | Scala | Databricks | Linux | Spark | Machine Learning | Cloud | Big Data"
+  },
+  {
+    "objectID": "programa/programa.html",
+    "href": "programa/programa.html",
+    "title": "Programa",
+    "section": "",
+    "text": "Masterclass inaugural: Inteligencia artificial pero muy humana"
+  },
+  {
+    "objectID": "programa/programa.html#módulo-ii-software-estadístico-r",
+    "href": "programa/programa.html#módulo-ii-software-estadístico-r",
+    "title": "Programa",
+    "section": "Módulo II: Software estadístico R",
+    "text": "Módulo II: Software estadístico R\n\nR y su entorno\nTratamiento de Datos\nAnálisis exploratorio de datos\n\nMasterclass: ¿Pueden la Ciencia de los datos y R ayudar a encontrar empleo a un parado?: OcupaR"
+  },
+  {
+    "objectID": "programa/programa.html#módulo-iii-arquitectura-de-datos-y-tecnologías-big-data",
+    "href": "programa/programa.html#módulo-iii-arquitectura-de-datos-y-tecnologías-big-data",
+    "title": "Programa",
+    "section": "Módulo III: Arquitectura de Datos y Tecnologías Big-Data",
+    "text": "Módulo III: Arquitectura de Datos y Tecnologías Big-Data\n\nIntroducción\nCalidad y gobierno de datos\nBases de datos Relacionales\nBases de datos NoSQL\n\nMasterclass: Big-Data aplicado a empresas"
+  },
+  {
+    "objectID": "programa/programa.html#módulo-iv-fundamentos-de-estadística",
+    "href": "programa/programa.html#módulo-iv-fundamentos-de-estadística",
+    "title": "Programa",
+    "section": "Módulo IV: Fundamentos de Estadística",
+    "text": "Módulo IV: Fundamentos de Estadística\n\nModelos probabilísticos\nFundamentos de Estadística Inferencial\n\nMasterclass: Uso y análisis de datos en medicina: ejemplos prácticos en infecciosas y farmacogenética"
+  },
+  {
+    "objectID": "programa/programa.html#módulo-v-modelización-estadística",
+    "href": "programa/programa.html#módulo-v-modelización-estadística",
+    "title": "Programa",
+    "section": "Módulo V: Modelización Estadística",
+    "text": "Módulo V: Modelización Estadística\n\nModelización econométrica lineal\nModelos lineales generalizados con distribución exponencial\nModelos aditivos generalizados\nModelos mixtos\nSeries temporales\nValidación de modelos.\n\nMasterclass: Por qué y para qué modelizar la identificación de miembros de alto riesgo que necesiten intervenciones"
+  },
+  {
+    "objectID": "programa/programa.html#módulo-vi-data-mining-básico",
+    "href": "programa/programa.html#módulo-vi-data-mining-básico",
+    "title": "Programa",
+    "section": "Módulo VI: Data Mining Básico",
+    "text": "Módulo VI: Data Mining Básico\n\nInstrumentos y técnicas de la estadística moderna\nTécnicas gráficas de Análisis Multivariante\nAnálisis de la Varianza\nClasificación y Discriminación\nReducción de la dimensionalidad\nCorrelación Canónica\n\nMasterclass: Aplicación de análisis de datos y big data en deporte de alto rendimiento"
+  },
+  {
+    "objectID": "programa/programa.html#módulo-vii-data-mining-avanzado",
+    "href": "programa/programa.html#módulo-vii-data-mining-avanzado",
+    "title": "Programa",
+    "section": "Módulo VII: Data Mining Avanzado",
+    "text": "Módulo VII: Data Mining Avanzado\n\nAnálisis de tablas de contingencia\nAnálisis de correspondencias\nAnálisis conjunto\n\nMasterclass: Desarrollos de Data Science en ciberdelincuencia\n\nEscalamiento multidimensional\nModelos de ecuaciones estructurales\nModelos Sparse y métodos penalizados de regresión.\n\nMasterclass: Modelos predictivos en alta dimensionalidad. Un ejemplo con datos genéticos\n\nRandom Forest\nBoosting\n\nMasterclass: Aplicación de métricas avanzadas en el fútbol"
+  },
+  {
+    "objectID": "programa/programa.html#módulo-viii-estadística-espacial-y-espacio-temporal",
+    "href": "programa/programa.html#módulo-viii-estadística-espacial-y-espacio-temporal",
+    "title": "Programa",
+    "section": "Módulo VIII: Estadística Espacial y Espacio-Temporal",
+    "text": "Módulo VIII: Estadística Espacial y Espacio-Temporal\n\nVisualización y geolocalización de datos\nProcesos puntuales\nModelos econométricos espaciales\n\nMasterclass: El valor de la ciencia de datos en la investigación policial\n\nGeoestadística espacial\nGeoestadística espacio-temporal\n\nMasterclass: Valoración de todas las casas de España: Lecciones aprendidas."
+  },
+  {
+    "objectID": "programa/programa.html#módulo-ix-inteligencia-artificial",
+    "href": "programa/programa.html#módulo-ix-inteligencia-artificial",
+    "title": "Programa",
+    "section": "Módulo IX: Inteligencia Artificial",
+    "text": "Módulo IX: Inteligencia Artificial\n\nIntroducción a la inteligencia artificial\nMachine learning: aprendizaje supervisado\nMachine learning: aprendizaje no supervisado\nMachine learning: otros conceptos\n\nMasterclass: Aplicaciones Big Data & Analytics en Red Eléctrica de España\n\nAplicaciones del deep learning\nRedes Neuronales Artificiales (ANNs)\nRedes Neuronales Convolucionales (CNNs)\n\nMasterclass: Analítica avanzada al servicio de las empresas.\n\nAnálisis de grafos y redes sociales\nAnálisis de datos no estructurados\n\nMasterclass: Aplicaciones de Data Science para Policía"
+  },
+  {
+    "objectID": "programa/programa.html#módulo-x-trabajo-fin-de-máster",
+    "href": "programa/programa.html#módulo-x-trabajo-fin-de-máster",
+    "title": "Programa",
+    "section": "Módulo X: Trabajo Fin de Máster",
+    "text": "Módulo X: Trabajo Fin de Máster"
+  }
+]
