@@ -2,8 +2,16 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/granada/index.html",
       "/posts/pastrana/index.html",
+      "/posts/granada/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/quarto.html",
+    "items": [
+      "/posts/pastrana/index.html",
+      "/posts/granada/index.html",
       "/posts/welcome/index.html"
     ]
   }

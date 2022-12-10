@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Master en Data Science & Business Analytics (con R software)",
     "section": "",
-    "text": "Congreso\n\n\nGranada\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\nMdsba\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCongreso\n\n\nPastrana\n\n\n\n\n\n\n\n\n\n\n\nOct 1, 2022\n\n\nMdsba\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ninicio\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\nMdsba\n\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCongreso\n\n\nPastrana\n\n\n\n\n\n\n\n\n\n\n\nNov 10, 2022\n\n\nMdsba\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nCongreso\n\n\nGranada\n\n\n\n\n\n\n\n\n\n\n\nOct 12, 2022\n\n\nMdsba\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\ninicio\n\n\n\n\n\n\n\n\n\n\n\nSep 1, 2022\n\n\nMdsba\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -124,5 +124,19 @@
     "title": "Programa",
     "section": "Módulo X: Trabajo Fin de Máster",
     "text": "Módulo X: Trabajo Fin de Máster"
+  },
+  {
+    "objectID": "quarto.html",
+    "href": "quarto.html",
+    "title": "Acerca de",
+    "section": "",
+    "text": "Este blog se ha construido para el Master en Data Science & Business Analytics."
+  },
+  {
+    "objectID": "posts/pastrana/index.html",
+    "href": "posts/pastrana/index.html",
+    "title": "2º Congreso R para Empresa, Docencia e Investigación en Pastrana.",
+    "section": "",
+    "text": "El objetivo del Congreso es fomentar el avance del conocimiento y uso del lenguaje de programación R y el desarrollo de la profesión en todas sus vertientes, especialmente la investigadora, docente y empresarial, además de favorecer el estudio y difusión de los conocimientos propios de la Estadística, Análisis de Datos y campos afines.\nEn la web del evento puedes acceder a todos los detalles del mismo, a continuación exponemos un pequeño resumen.\n\nProgramaPonenciasComunicacionesPremios Mejor TFM/TFGFotos\n\n\nJueves, 10 de noviembre de 2022\n16:00 - 17:00 Recepción asistentes\n17:00 - 18:30 Sesión de Ponencias y Comunicaciones (Moderador: Víctor Casero Alonso)\n18:30 - 19:00 Reunión de la Asociación R-Quixote\n19:00 - 19:30 Inauguración del Congreso\n19:30 - 22:30 Visita Guiada a Pastrana y Museo de Tapices y Cena de Bienvenida (El Cenador de las Monjas)**\nViernes, 11 de noviembre de 2022\n09:00 - 10:30 Sesión I. Uso de R en la Docencia Universitaria: Casos de aplicación. Moderador: Luis F. Rivera Galicia\n10:45 - 12:15 Sesión II. Uso de R en la Empresa: Casos de éxito. Moderadora: Gema Fernández-Avilés Calderón\n12:30 - 14:00 Sesión III. Uso de R en la Investigación: Desarrollos recientes y aplicaciones. Moderador: Carmelo García Pérez\n14:00 - 14:30. Clausura del II Congreso R4EDI (Premio al mejor TFG/TFM presentado que haya hecho uso de R) 14:30 - 16:30. Comida de Trabajo (Convento San Francisco)\n\n\n\nAvances recientes en predicción analítica con R. Diego Pedregal Tercero\nlearnr y no mueras en el intento. Víctor Casero Alonso\nQuarto, una herramienta de nueva generación para la docencia. Cristina Sánchez y Gema Fernández-Avilés\nProcesamiento de nuevas fuentes de información con R para la obtención de indicadores estadísticos en la estadística oficial. Jorge Velasco y Paola Groch\nCaso de negocio con R: Segmentación y valor de vida de clientes. Jaime Fierro y Rocío González\nCómo crear un paquete de R para principiantes. Itzcóatl Bueno\nPrincipios éticos y data science. La explicabilidad, un principio clave. Mónica Villas\nLos modelos de toma de decisiones en los negocios basados en datos. Una perspectiva científica e implementaciones en R. Ramón Carrasco\nEntornos R y Python creando investigación: Deepkriging para contaminación del aire. José M. Sanz y Gema Fernández-Avilés\npsparreg: an R package for semiparametric modelling of spatio-temporal data. Román Mínguez\n\n\n\n\nDetección de multicolinealidad mediante métodos gráficos.Román Salmerón Gómez y Catalina García García\nIntroducción al paquete {targets}.Mar Barrio Luna, Michal Kinel y Adrián Quintario Olmeda\nFactores asociados a la satisfacción de las personas en el ámbito sanitario en España, 2022.Ana Salinas Vilca\nUna introducción a data.table.Antonio José Perán Orcajada\nDatos públicos y Shiny R. Algunos datos de un pueblo manchego.Andrés Carretero Sosa\n\n\n\n\nAccésit 2: al TFG titulado “Sostenibilidad ambiental en los alojamientos rurales andaluces; percepciones por género” , elaborado por D. Andrés Carretero Sosa, bajo la dirección de José Mondéjar Jímenez.\nAccésit 1: al TFG titulado “Aplicaciones de técnicas de reducción de la dimensionalidad en modelos financieros factoriales”, elaborado por D. Javier Martínez Alcañiz, y dirigido por Juan M. Nave Pineda y Román Mínguez Salido.\n1er Premio: al TFG titulado “La Inteligencia Artificial al servicio del descubrimiento musical: una aproximación a los sistemas de recomendación de Spotify a través de la Teoría de Grafos”, elaborado por D. Armando Marín Ruíz, bajo la dirección de Javier Cózar del Olmo y Daniel González Medina\n\n\n\n\n\n\n\n\n\nCharlando\n\n\n\n\n\n\n\nCharlando\n\n\n\n\n\n\n\n\n\nCharlando"
   }
 ]

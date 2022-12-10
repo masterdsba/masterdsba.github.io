@@ -186,8 +186,67 @@ ul.task-list li input[type="checkbox"] {
 
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+</div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Congreso,Granada" data-listing-date-sort="1665525600000" data-listing-file-modified-sort="1670070097406" data-listing-reading-time-sort="0.005">
+<div class="quarto-post image-right" data-index="0" data-categories="Congreso,Pastrana" data-listing-date-sort="1668034800000" data-listing-file-modified-sort="1670666773551" data-listing-reading-time-sort="3.06">
+<div class="thumbnail">
+<p><a href="./posts/pastrana/index.html"> <img src="./posts/pastrana/imagen.png" class="thumnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="./posts/pastrana/index.html">
+<h3 class="no-anchor listing-title">
+2º Congreso R para Empresa, Docencia e Investigación en Pastrana.
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Congreso'); return false;">
+Congreso
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Pastrana'); return false;">
+Pastrana
+</div>
+</div>
+<a href="./posts/pastrana/index.html">
+<div class="listing-description">
+La Universidad de Alcalá, junto con la asociación R-Quixote, organiza el 2º Congreso R4EDI, “R para Empresa, Docencia e Investigación”, los días 10 y 11 de noviembre de 2022 en el Palacio Ducal de Pastrana, con carácter presencial y con retransmisión síncrona online.
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/pastrana/index.html">
+<div class="listing-date">
+Nov 10, 2022
+</div>
+<div class="listing-author">
+Mdsba
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Congreso,Granada" data-listing-date-sort="1665525600000" data-listing-file-modified-sort="1670070097406" data-listing-reading-time-sort="0.005">
 <div class="thumbnail">
 <p><a href="./posts/granada/index.html"> <img src="./posts/granada/imagen.png" class="thumnail-image"> </a></p>
 </div>
@@ -218,44 +277,6 @@ Granada
 <a href="./posts/granada/index.html">
 <div class="listing-date">
 Oct 12, 2022
-</div>
-<div class="listing-author">
-Mdsba
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-categories="Congreso,Pastrana" data-listing-date-sort="1664575200000" data-listing-file-modified-sort="1670070103580" data-listing-reading-time-sort="0.005">
-<div class="thumbnail">
-<p><a href="./posts/pastrana/index.html"> <img src="./posts/pastrana/imagen.png" class="thumnail-image"> </a></p>
-</div>
-<div class="body">
-<a href="./posts/pastrana/index.html">
-<h3 class="no-anchor listing-title">
-2º Congreso R para Empresa, Docencia e Investigación en Pastrana.
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('Congreso'); return false;">
-Congreso
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('Pastrana'); return false;">
-Pastrana
-</div>
-</div>
-<a href="./posts/pastrana/index.html">
-<div class="listing-description">
-
-</div>
-</a>
-</div>
-<div class="metadata">
-<a href="./posts/pastrana/index.html">
-<div class="listing-date">
-Oct 1, 2022
 </div>
 <div class="listing-author">
 Mdsba
