@@ -2,9 +2,11 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/graduacion/index.html",
       "/posts/pastrana/index.html",
       "/posts/granada/index.html",
-      "/posts/welcome/index.html"
+      "/posts/welcome/index.html",
+      "/posts/aespelt/index.html"
     ]
   },
   {
